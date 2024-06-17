@@ -4,7 +4,7 @@ Chuyên mục này là nơi hướng dẫn chi tiết cách cài các loại cli
 
 Trước khi cài client, cần xác định rõ client, mod đó thuộc loại nào, và chạy trên phiên bản nào (Một số người cài client 1.12.2 vô 1.8.9 và ngược lại). Có thể check loại client tại: [Jar Client Checker](https://minusmc.github.io/jar-client-checker/)
 ## Forge
-Client: LiquidBounce Legacy (1.8.9), LiquidBounce 1.12.2 (client này đã bị xoá bởi CCBlueX), [MinusBounce](https://minusbounce.lol/), [FDPClient](https://fdpinfo.github.io), NightX, ...
+Client: [LiquidBounce Legacy](https://vn.liquidbounce.net/download) (1.8.9), LiquidBounce 1.12.2 (client này đã bị xoá bởi CCBlueX), [MinusBounce](https://minusbounce.lol/), [FDPClient](https://fdpinfo.github.io), NightX, ...
 
 Các bước cài:
 - Bước 1: Đảm bảo bạn đã cài Forge đúng phiên bản (hoặc ForgeOptifine với [TLauncher](https://llaun.ch/en), [Legacy Launcher](https://llaun.ch/en)) trong Launcher và đã chạy ít nhất 1 lần.
@@ -18,7 +18,7 @@ Các bước cài:
 - Bước 6: Khởi động trò chơi.
 
 ## Fabric
-Client: [LiquidBounce](https://vn.liquidbounce.net/download) Nextgen, [ThunderHack Recode](https://github.com/Pan4ur/ThunderHack-Recode), ...
+Client: [LiquidBounce NextGen](https://vn.liquidbounce.net/download) , [ThunderHack Recode](https://github.com/Pan4ur/ThunderHack-Recode), ...
 
 Các bước cài:
 - Bước 1: Đảm bảo bạn đã cài Fabric đúng phiên bản trong Launcher và đã chạy ít nhất 1 lần.
