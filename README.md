@@ -5,6 +5,9 @@
   Discord: https://discord.minusbounce.lol
 </div>
 
+## Language
+[Tiếng Việt](README_vi.md)
+
 ## Contributing
 To contribute docs, you can fork and edit this repository. After that, create a pull request.
 
@@ -15,3 +18,4 @@ If you found some issue, or adding features, or contribute example videos for se
 ## License
 This project is subject to the GNU General Public License v3.0.
 You are allowed to share and modify, but you aren't allowed to use document for commercial or private repo or monetizing it.
+
