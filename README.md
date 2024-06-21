@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Cheating Documentation</h1>
-  <h3>A repository for documentation thats every Minecraft Cheaters need!</h3>
+  <h3>A repository for documentation that every Minecraft Cheaters need it.</h3>
   Website: https://minusbounce.lol</br>
   Discord: https://discord.minusbounce.lol
 </div>
