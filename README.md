@@ -14,8 +14,9 @@ To contribute docs, you can fork and edit this repository. After that, create a 
 ## Issues
 If you found some issue, or adding features, or contribute example videos for settings, create an issue.
 
-
 ## License
 This project is subject to the GNU General Public License v3.0.
 You are allowed to share and modify, but you aren't allowed to use document for commercial or private repo or monetizing it.
 
+## Contributors
+- [MarkGG8181](https://github.com/MarkGG8181)

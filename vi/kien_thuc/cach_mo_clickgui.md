@@ -6,7 +6,7 @@ Các client có ClickGUI: [Liquidbounce Nextgen và Legacy](https://vn.liquidbou
 ![ClickGUI](https://raw.githubusercontent.com/MinusMC/docs-cheating/main/examples/basic/clickgui/clickgui_0.png)
 ![ClickGUI](https://raw.githubusercontent.com/MinusMC/docs-cheating/main/examples/basic/clickgui/clickgui_1.png)
 
-# Làm thế nào để mở ClickGUI
+## Làm thế nào để mở ClickGUI
 - Bước 1: Đảm bảo bạn đã vào game và xác nhận đã cài client vào Minecraft.
 - Bước 2: Vào 1 thế giới hoặc server bất kì.
 - Bước 3: Rất đơn giản, ấn nút `RShift` (Shift bên phải của bàn phím).
@@ -15,7 +15,7 @@ Không mở được ClickGUI? Thử tất cả các phím còn lại trên bàn
 
 Vẫn không mở được? Xem hướng dẫn phía dưới.
 
-# Gắn phím cho ClickGUI
+## Gắn phím cho ClickGUI
 
 Tại sao lại có chuyện này?
 

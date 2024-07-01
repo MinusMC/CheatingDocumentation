@@ -11,15 +11,15 @@ Về cơ bản, thay vì bạn phải nhớ trong đầu là nên bật cái nà
 ## Làm thế nào để cài config (load config)
 
 - Bước 1: Đảm bảo bạn đã chọn đúng config, đúng client và đã chạy client ít nhất 1 lần
-- Bước 2: Mở thư mục .minecraft, sau đó mở thư mục tên client (đa số client đều có thư mục chính nó tại .minecraft)
+- Bước 2: Mở thư mục .minecraft (không biết xem tại [đây](cach_mo_thu_muc_.minecraft.md)), sau đó mở thư mục tên client (đa số client đều có thư mục chính nó tại .minecraft)
 - Bước 3: Tìm đến thư mục config (settings nếu không thấy config) và mở chúng
 - Bước 4: Đưa config bạn vừa tải về vào trong thư mục
 - Bước 5: Vào game
-- Bước 6: Mở chat, gõ: `<prefix> <command> load <name>`. Trong đó:
+- Bước 6: Mở chat, gõ: `<prefix><command> load <name>`. Trong đó:
 	+ Prefix có thể là dấu `.`, `!`, ... (đa số là dấu chấm).
 	+ Command có thể là `config`, `settings`, `localsettings` (đa số là config)
 	+ Name là tên config bạn vừa đưa vào
 
 ## Làm thế nào để lưu config (save config)
 
-Chỉ cần vô game, gõ `<prefix> <command> save <name>` (tương tự ở mục cài config). File config sẽ được lưu ở `.minecraft/<tên config>/<configs hoặc settings>`
+Chỉ cần vô game, gõ `<prefix> <command> save <name>` (tương tự ở mục cài config). File config sẽ được lưu ở `.minecraft/<tên client>/<configs hoặc settings>`
