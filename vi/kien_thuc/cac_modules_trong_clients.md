@@ -1,44 +1,32 @@
+# Các hack cơ bản trong các clients
 
+Các hack cơ bản mà được liệt kê dưới đây là những hack được sử dụng thường xuyên, tần suất dày đặc và hầu nhưng mọi config đều có.
 
-# Các modules cơ bản trong các clients
+Lưu ý: Từ nay trở về sau, các `hack` được gọi bằng từ `module`.
 
-  - **Velocity/AntiKnockBack**
+###  Velocity / Anti Knockback / AntiKB
+Module này giúp người chơi kháng đẩy lùi khi bị đánh bởi người chơi, quái vật, ... (có thể là kháng hoàn toàn hoặc 1 phần).
 
-		
-	Module này sẽ giúp người dùng kháng đẩy lùi bởi các thực thể trong
-    Minecraft như Mobs, Players,...
+### Kill Aura / K.A / Aura / Silent Aura
+Module này tự động đánh các mục tiêu theo các tiêu chí khác nhau. Module này có thể kèo theo cả AutoBlock (tự động chặn kiếm).
 
-  
+### Scaffold / Block Fly
+Module này tự động bắt cầu, bắt block hoàn toàn tự động.
 
- - **Kill Aura/K.A/Aura**
+### No Slow
+Module này giúp người chơi không bị đi chậm khi chặn kiếm, ăn táo, bắn cung.
 
-	 Tự động đánh các mục tiêu được chỉ định
+### Sprint / Auto Sprint
+Tự động chạy nhanh. Một số client còn có cả OmniSprint (tự động chạy không cần xoay đầu).
 
-  - **Nofall/NoFall Damage**
-	  Giúp loại bỏ hoàn toàn sát thương rơi
+### ChestStealer/Stealer
+Tự động lấy đồ trong rương, lấy món đồ thật sự cần thiết.
 
- - **NoSlow**
-		 Giúp bạn không bị làm chậm khi Block ( dí chuột phải), Ăn táo,...
+### Inventory Manager / Manager
+Tự động sắp xếp đồ, mặc giáp (Một số client có module riêng - AutoArmor), vứt đồ không cần thiết.
 
-  - **Sprint/AutoSprint** ( Tự động chạy nhanh )
-	  
-	  Sprint có *2 loại*:
-	  1. Legit: là loại giúp bạn tự động chạy nhưng nó chỉ là tự chạy như một player legit
-	  2. Vanila: hay còn gọi là Omni Sprint, nó giúp bạn chạy nhanh ở mọi hướng mà không phải xoay đầu
+### Speed
+Giúp bạn chạy nhanh hơn bình thường. Một số module không giúp bạn chạy nhanh hơn nhưng có thể dùng để chạy xung quanh khiến người chơi cực kì ức chế.
 
- -  **ChestStealer/Stealer**
-  Giúp bạn tự động loot các đồ cần thiết/all trong rương
-
--   **InventoryManager/Manager**
-  Giúp bạn tự động sắp xếp đồ trong kho chứa, tự động mặc giáp, tự động vứt rác,...
-
-  - **Speed**
-  Giúp bạn chạy nhanh hơn bình thường
-  Một số module không giúp bạn chạy nhanh hơn nhưng có thể dùng để BHop
-
- -  **Criticals/Crits**
-  Giúp bạn tăng dame vào đòn đánh mà không cần phải JUMP
-
--   **FastUse**
-  Giúp bạn ăn nhanh hơn so với bình thường
-
+### Criticals / Crits
+Tăng dame vào đòn đánh, có thể nhảy hoặc không.
