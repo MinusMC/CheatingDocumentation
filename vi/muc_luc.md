@@ -7,3 +7,4 @@
 - [ClickGui cơ bản](kien_thuc/cach_mo_clickgui.md)
 - [Gắn phím vào hack](kien_thuc/cach_bind_1_module.md)
 - [Anti VPN Bypass](kien_thuc/anti_vpn_bypass.md)
+- [Các modules cần thiết/cơ bản trong các clients](kien_thuc/cac_modules_trong_clients.md)
