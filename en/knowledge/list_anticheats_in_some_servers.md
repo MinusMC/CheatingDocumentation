@@ -11,7 +11,7 @@
 | Mineberry      | mineberry.org      | Bedwar                           | Intave + Matrix?             |
 | Dexland        | dexland.ru         | Skywar                           | Intave                       |
 | Cheatmine      | cheatmine.ru       | Skywar                           | Intave                       |
-| Pika Network   | pika-network.net   | Bedwar, Skywar                   | Polar                        |
+| Pika Network   | pika-network.net   | Bedwar,                          | Polar                        | 
 | Jartex Network | jartexnetwork.com  | Bedwar, Skywar                   | Polar                        |
 | Hycraft        | hycraft.us         | Practice                         | Polar                        |
 | Craftplay      | craftplay.pl       | Bedwar                           | Polar                        |                                          |
